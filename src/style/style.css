@@ -1,0 +1,18 @@
+.font-size{
+    font-size: 13px;
+}
+#root{
+    background: #2c3e3e7d;
+    margin: auto;
+    width: 70%;
+}
+.background{
+    background-image: url("../imgs/PvDn.gif");
+}
+.serah-box{
+    padding: 20px;
+}
+.btn{
+    padding: 10px 20px;
+    background: black;
+}
